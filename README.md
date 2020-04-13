@@ -38,4 +38,4 @@ Just clone this repository anywhere on your system, and you are ready to go. I r
 ## Built With
 
 * [Python 3.7.6](https://www.python.org/)
-* [Python Reddit API Wrapper](PRAW)](https://praw.readthedocs.io/en/latest/)
+* [Python Reddit API Wrapper](https://praw.readthedocs.io/en/latest/)
