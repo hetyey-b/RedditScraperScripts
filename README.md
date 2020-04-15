@@ -6,7 +6,7 @@ WARNING! A lot of the scripts automatically opt into quarantined subreddits! If 
 
 ## Getting Started
 
-The script was written in Python 3.7.6. If your Python installation is having problems running the script, I recommend using that particular version.
+The scripts were written in Python 3.7.6. If your Python installation is having problems running the script, I recommend using that particular version.
 
 ### Prequisites
 
@@ -29,7 +29,7 @@ WARNING! These are in no way encrypted (obviously), and you are essentially stor
 
 ### Installing
 
-Just clone this repository anywhere on your system, and you are ready to go. I recommend you run this script from the command line.
+Just clone this repository anywhere on your system, and you are ready to go. I recommend you run these scripts from the command line.
 
 ## Built With
 
