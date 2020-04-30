@@ -1,7 +1,5 @@
 #! python3
 import praw  # Python Reddit API Wrapper
-import pandas as pd
-import datetime as dt
 import os
 
 from praw.models import MoreComments
